@@ -1,3 +1,4 @@
 Completed chapter 1.
 Completed chapter 2. Added after git add - lets see if this is committed?
 This is sentence is added after 2nd commit.
+Added after 3rd COmmit.
