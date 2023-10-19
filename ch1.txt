@@ -4,3 +4,5 @@ This is sentence is added after 2nd commit.
 Added after 3rd COmmit. This sentence also added.
 
 All these content has been added to branch 1 but not in master branch. 
+
+This sentence has been added after pushing to github. THis is for practicing pushing new content.
